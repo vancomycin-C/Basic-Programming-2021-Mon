@@ -1,9 +1,9 @@
-//¹®Á¦ ¹øÈ£_10718_We love kriii
+//Baekjoon_10718_We love kriii
 #include<stdio.h>
 int main()
 {
-	printf("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º\n");
-	printf("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");
+	printf("ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°\n");
+	printf("ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°");
 
 	return 0;
 }
